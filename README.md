@@ -21,6 +21,8 @@ Web-based Caesar Cipher tool implemented in HTML, CSS, and JavaScript. This tool
 
 3. Enter the message, select the shift, and click "Encrypt" or "Decrypt."
 
+![Caesar Cipher Screenshot](run.PNG)
+
 ## Cybersecurity Highlights
 
 This project emphasizes cybersecurity principles:
